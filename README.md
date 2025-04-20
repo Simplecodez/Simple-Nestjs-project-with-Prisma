@@ -1,4 +1,4 @@
-# Digital Vision Assessment
+# Simple Nestjs-Prisma project
 
 This project is a backend application built with NestJS, PostgreSQL (running in Docker), and Prisma for ORM. This README provides step-by-step instructions for setting up the development environment, including running PostgreSQL in Docker, setting up the environment variables, and configuring Prisma for database interactions and migrations.
 
